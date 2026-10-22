@@ -1,0 +1,13 @@
+stage,n,source
+Exp 1 randomized,107,manuscript allocation
+ADT allocated,54,manuscript allocation
+LDT allocated,53,manuscript allocation
+ADT discontinued,3,54 minus cognitive cohort
+LDT discontinued,5,53 minus 48 roster completers
+LDT completers,48,public participants
+LDT completer missing cognitive data,1,public participants
+ADT analyzed,51,cognitive_long
+LDT analyzed,47,cognitive_long
+Exp 2 screened,57,manuscript flow
+Exp 2 screening excluded,7,57 minus 50
+Exp 2 analyzed,50,cognitive_long

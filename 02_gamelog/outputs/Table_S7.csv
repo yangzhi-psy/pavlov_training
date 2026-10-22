@@ -1,0 +1,6 @@
+Measure,ADT (n = 51) Mdn [IQR],LDT (n = 46) Mdn [IQR],U,p
+Total active training time (h),"22.30 [20.25, 23.89]","22.89 [21.48, 26.34]",952,.111
+Sessions completed,"872 [761, 953]","1,739 [1,392.75, 2,054.5]",122,< .001
+Training days played,"19 [19, 19]","19 [19, 19]","1,053.5",.171
+Training days meeting the 1.5-h requirement (%),"94.74 [86.84, 100]","94.74 [79.21, 100]","1,274",.449
+Passive sessions,"147 [120.5, 183]","25 [13.25, 50.75]","2,204.5",< .001

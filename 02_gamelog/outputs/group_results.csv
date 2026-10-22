@@ -1,0 +1,14 @@
+column,measure,unit,ADT_n,ADT_median,ADT_Q1,ADT_Q3,LDT_n,LDT_median,LDT_Q1,LDT_Q3,U_ADT,p,pooled
+total_active_time_s,Total active training time (s),s,51,80285,72894,85999,46,82417.5,77341.25,94825.25,952,0.11115492536013553,
+total_active_time_h,Total active training time (h),h,51,22.301388888888887,20.248333333333335,23.888611111111111,46,22.893749999999997,21.483680555555555,26.340347222222224,952,0.11115492536013553,
+qualifying_sessions,"Qualifying (non-passive) sessions, all logged days",count,51,725,622,769.5,46,1706,1343,2017,84,3.7152348089100318e-15,
+total_sessions,"All sessions completed, all logged days",count,51,872,761,953,46,1739,1392.75,2054.5,122,3.2036841261925299e-14,
+sessions_training_days,"All sessions completed, training days only",count,51,852,742.5,935,46,1720,1375,2025.75,120,2.8708741714057281e-14,
+qualifying_training_days,"Qualifying sessions, training days only",count,51,707,606.5,749.5,46,1694.5,1325.25,2003.75,81,3.1252092772256404e-15,
+logged_days_played_incl_familiarisation,Logged days played (incl. familiarisation),days,51,20,20,20,46,20,20,20,1095.5,0.46853429822818438,
+training_days_played,Training days played,days,51,19,19,19,46,19,19,19,1053.5,0.1713788909252365,
+compliance_90min_pct_days,"Daily 90-min compliance, participant level",% of training days,51,94.736842105263165,86.84210526315789,100,46,94.736842105263165,79.21052631578948,100,1274,0.4487095773998927,ADT 863/976 days = 88.42%; LDT 768/887 days = 86.58%
+passive_sessions,Passive sessions (count),count,51,147,120.5,183,46,25,13.25,50.75,2204.5,9.3684780853523665e-14,ADT 8260/44390 sessions = 18.61%; LDT 2005/78764 sessions = 2.55%
+passive_rate_pct,"Passive-session rate, participant level",% of sessions,51,17.368421052631579,14.942637074770087,20.882019336370021,46,1.3699892865103505,0.73120342901704305,3.0076243484406753,2302,3.5497486236065649e-16,ADT 8260/44390 sessions = 18.61%; LDT 2005/78764 sessions = 2.55%
+peak_training_difficulty,"Peak difficulty, training games",level,51,43,39,50,46,2,2,2,2346,3.0882372569577435e-19,
+peak_test_difficulty_pooled,"Peak difficulty, test tasks (pooled)",level,51,31,30.5,35,46,33,30.25,35,1015,0.24980429597528397,

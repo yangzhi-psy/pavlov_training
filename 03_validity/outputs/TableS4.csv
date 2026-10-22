@@ -1,0 +1,26 @@
+﻿In-game task,Standard measure,ρ,95% CI,p,pFDR,n
+ColorJudgement (level 13),Go/No-Go d′,−.105,"[−.303, .101]",.315,.779,93
+ColorJudgement (level 13),N-back 2-vs-0 RT,.160,"[−.046, .353]",.127,.779,92
+ColorJudgement (level 13),MRT rotation RT,.026,"[−.180, .230]",.806,.905,92
+ColorJudgement (level 13),ANT executive control,.064,"[−.150, .272]",.559,.779,86
+ColorJudgement (level 13),Raven ≥2-element ACC,−.118,"[−.321, .095]",.275,.779,87
+Singler (level 8),Go/No-Go d′,−.085,"[−.284, .120]",.416,.779,93
+Singler (level 8),N-back 2-vs-0 RT,−.064,"[−.266, .142]",.542,.779,92
+Singler (level 8),MRT rotation RT,−.078,"[−.279, .129]",.459,.779,92
+Singler (level 8),ANT executive control,−.018,"[−.229, .195]",.869,.905,86
+Singler (level 8),Raven ≥2-element ACC,−.146,"[−.346, .067]",.179,.779,87
+MatchCard (level 12),Go/No-Go d′,−.005,"[−.209, .199]",.961,.961,93
+MatchCard (level 12),N-back 2-vs-0 RT,.308,"[.111, .483]",.003,.070,92
+MatchCard (level 12),MRT rotation RT,.053,"[−.153, .255]",.615,.779,92
+MatchCard (level 12),ANT executive control,−.119,"[−.323, .095]",.273,.779,86
+MatchCard (level 12),Raven ≥2-element ACC,−.057,"[−.265, .155]",.598,.779,87
+Pack (level 8),Go/No-Go d′,−.021,"[−.224, .183]",.840,.905,93
+Pack (level 8),N-back 2-vs-0 RT,.089,"[−.118, .289]",.398,.779,92
+Pack (level 8),MRT rotation RT,.189,"[−.016, .379]",.071,.779,92
+Pack (level 8),ANT executive control,−.059,"[−.268, .155]",.589,.779,86
+Pack (level 8),Raven ≥2-element ACC,.097,"[−.116, .302]",.370,.779,87
+Toilet (level 18),Go/No-Go d′,−.065,"[−.265, .141]",.536,.779,93
+Toilet (level 18),N-back 2-vs-0 RT,.171,"[−.035, .364]",.102,.779,92
+Toilet (level 18),MRT rotation RT,−.052,"[−.254, .155]",.623,.779,92
+Toilet (level 18),ANT executive control,−.020,"[−.230, .193]",.858,.905,86
+Toilet (level 18),Raven ≥2-element ACC,−.118,"[−.321, .095]",.276,.779,87

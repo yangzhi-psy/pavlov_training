@@ -1,0 +1,74 @@
+{
+ "AlienLanguage": {
+  "scale": 0.8371,
+  "dy_px": 11.99
+ },
+ "BBQ": {
+  "scale": 0.7682,
+  "dy_px": 14.39
+ },
+ "ColorJudgement": {
+  "scale": 0.818,
+  "dy_px": 11.99
+ },
+ "CubesProjection": {
+  "scale": 0.7564,
+  "dy_px": 13.19
+ },
+ "Delivery": {
+  "scale": 0.842,
+  "dy_px": 8.39
+ },
+ "InnerSpaceMap": {
+  "scale": 0.7876,
+  "dy_px": 13.19
+ },
+ "Lines": {
+  "scale": 0.8926,
+  "dy_px": 8.39
+ },
+ "MatchCard": {
+  "scale": 0.8361,
+  "dy_px": 9.59
+ },
+ "Mines": {
+  "scale": 0.8219,
+  "dy_px": 9.59
+ },
+ "OneOrTwoSteps": {
+  "scale": 0.7154,
+  "dy_px": 14.39
+ },
+ "Pack": {
+  "scale": 0.9094,
+  "dy_px": 8.39
+ },
+ "Roadblocks": {
+  "scale": 0.8715,
+  "dy_px": 8.39
+ },
+ "ServeFood": {
+  "scale": 0.8347,
+  "dy_px": 16.79
+ },
+ "Shopping": {
+  "scale": 0.8393,
+  "dy_px": 16.79
+ },
+ "Singler": {
+  "scale": 0.8118,
+  "dy_px": 16.79
+ },
+ "SpaceStation": {
+  "scale": 0.8202,
+  "dy_px": 17.99
+ },
+ "Toilet": {
+  "scale": 0.9267,
+  "dy_px": 15.59
+ },
+ "Train": {
+  "scale": 0.9032,
+  "dy_px": 15.59
+ }
+}
