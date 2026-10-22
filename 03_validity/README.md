@@ -39,10 +39,3 @@ or run `python run_all.py` in the release root. It reads `inputs/test_task_trial
 
   Each row includes every included participant with RT at that level and a posttest score (n 87–96). The table is descriptive and uncorrected.
 - **Why Table S8 differs from Table S4 at the shared level:** only the inclusion rule differs. Table S8 uses everyone with data at that level, while Table S4 uses rule (i), which removes 1–3 participants per pair. Restricted to rule (i), the Table S8 shared-level rows equal the Table S4 domain-matched rows exactly (for example MatchCard L12: ρ .279, n 95 in Table S8 vs .308, n 92 under rule (i)).
-
-## Key values
-- n = 94.
-- Domain-matched pairs: ColorJudgement–Go/No-Go d′ −.105 (n 93); Singler–Raven −.146 (n 87); MatchCard–N-back RT .308 [.111, .483] (n 92, p = .003, pFDR = .070); Pack–MRT RT .189 (n 92); Toilet–ANT executive control −.020 (n 86).
-- Smallest pFDR = .070; no correlation survives FDR correction.
-
-Checksums of all files are in the release root `SHA256SUMS.txt`.
