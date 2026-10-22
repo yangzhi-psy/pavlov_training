@@ -1,6 +1,5 @@
-# Adaptive-difficulty cognitive training: data and code for the revised manuscript
-
-This folder regenerates every result, table and figure of the revised manuscript from the files in this folder alone: Figures 1–3, Tables 2–4 and S3–S8, Sections 2.7 and 3.1, the Bayes factors and the sensitivity analyses. The one exception is the Table S5 sensitivity row that matches on birth-date distance: it needs birth-date information that is not released, and it is available from the authors on request. Participants are identified by pseudonymous P-codes (P001–P149). 
+# Adaptive-difficulty cognitive training: data and code for Chen et al. 2026 "Adaptive Difficulty and Cognitive Gains in Multi-Domain 
+Cognitive Training: A Randomized Active-Controlled Study"
 
 ## How to run
 1. Install Python 3.12 (tested with 3.12.13, 64-bit, Windows 11).
