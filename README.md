@@ -52,17 +52,6 @@ This folder regenerates every result, table and figure of the revised manuscript
 | Table S8 (domain-matched pairs by level) | `03_validity/run_figure3_tableS4_tableS8.py` | `outputs/TableS8.csv` |
 | Figure 2 (difficulty progression, 51 ADT) | `02_gamelog/code/figure2.py` | `outputs/Figure2.png`, `.pdf`, `figure2_source.csv`, `Figure2_plotted_values.csv` |
 | Figure 3 (test-task RT vs standard measures) and caption | `03_validity/run_figure3_tableS4_tableS8.py` | `outputs/Figure3.png`, `outputs/Figure3_caption.txt` |
-| Section 2.7 and the Table S7 note: active time 22.3 vs 22.9 h (U 952, p .111); training days played 19 vs 19 (U 1,053.5, p .171); sessions 1,739 vs 872 (U 122); compliance 88.4% of 976 vs 86.6% of 887 training days (participant-level U 1,274, p .449); passive sessions 147 vs 25 (U 2,204.5), 8,260/44,390 vs 2,005/78,764 | `02_gamelog/code/table_s7_section27.py` | `outputs/Section_2_7.csv` (per-participant and per-day values: `participant_metrics.csv`, `daily_metrics.csv`) |
-| Section 2.8.3: convergent-validity subsample n = 94 of 97 (ADT 50, LDT 44) | `03_validity/run_figure3_tableS4_tableS8.py` | `outputs/included_participants_rule_i_Pcodes.csv` (94 rows; group from `inputs/test_task_trials_pcode.csv`) |
-| Section 2.8.5: outliers removed per outcome and group | `01_cognitive/code/methods_numbers.py` | `outputs/Text_outlier_counts/Text_outlier_counts.csv` |
-| Section 2.8.5 / 3.3 sensitivity: unscreened p (N-back .097, MRT .021, ANT .079, Raven .051; Go/No-Go not estimable) | `01_cognitive/code/sensitivity.py` | `outputs/Text_no_outlier_sensitivity/Text_no_outlier_sensitivity.csv` |
-| Sections 2.1 and 4: post hoc power (d ≥ 0.57 at 80%, 0.66 at 90%; 165–202 per group for g = .31/.28) | `01_cognitive/code/methods_numbers.py` | `outputs/Text_power/Text_power.csv` |
-| Section 3.1: Exp 1 age-adjusted models (N-back Δχ² < 0.1, others < 0.07) | `01_cognitive/code/section31_checks.py` | `outputs/Text_exp1_age_adjusted/Text_exp1_age_adjusted.csv` |
-| Section 3.1: accuracy N-back χ²(1) = 2.92, p = .087; dz .97 / .63 | `01_cognitive/code/section31_checks.py` | `outputs/Text_accuracy_nback/Text_accuracy_nback.csv` |
-| Section 3.1: ANT alerting 0.27, p = .60; orienting 0.17, p = .68 | `01_cognitive/code/section31_checks.py` | `outputs/Text_ANT_networks/Text_ANT_networks.csv` |
-| Section 3.2: Exp 2 age–group r = .53, VIF 4.0; Exp 2 N-back pre/post means | `01_cognitive/code/age_time.py`, `exp1.py` | `outputs/Table_S6/Table_S6.csv` (`point_biserial_r`, `vif_group_time`), `outputs/Table_S3/Table_S3.csv` |
-| Section 3.3: Bayes factors BF₁₀ 1.26 (BIC) and 2.10 (JZS) | `01_cognitive/code/bayes.py` | `outputs/Text_Bayes_factors/Text_Bayes_factors.csv` |
-| Section 3.5: MatchCard–N-back ρ = .308 [.111, .483], p = .003; n 86–93; smallest pFDR .070 | `03_validity/run_figure3_tableS4_tableS8.py` | `outputs/figure3_tableS4_results.csv`, `outputs/TableS4.csv` |
 | Tables 1, S1, S2 (task descriptions, schedule) and Figure S1 (schematic) | — | no data |
 
 ## Notes
