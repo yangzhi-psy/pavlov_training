@@ -1,5 +1,4 @@
-# Adaptive-difficulty cognitive training: data and code for Chen et al. 2026 "Adaptive Difficulty and Cognitive Gains in Multi-Domain 
-Cognitive Training: A Randomized Active-Controlled Study"
+# Adaptive-difficulty cognitive training: data and code for Chen et al. 2026 "Adaptive Difficulty and Cognitive Gains in Multi-Domain Cognitive Training: A Randomized Active-Controlled Study"
 
 ## How to run
 1. Install Python 3.12 (tested with 3.12.13, 64-bit, Windows 11).
