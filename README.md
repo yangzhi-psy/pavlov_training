@@ -1,6 +1,6 @@
 # Adaptive-difficulty cognitive training: data and code for the revised manuscript
 
-This folder regenerates every result, table and figure of the revised manuscript from the files in this folder alone: Figures 1–3, Tables 2–4 and S3–S8, Sections 2.7 and 3.1, the Bayes factors and the sensitivity analyses. The one exception is the Table S5 sensitivity row that matches on birth-date distance: it needs birth-date information that is not released, and it is available from the authors on request. Participants are identified by pseudonymous P-codes (P001–P149). The release contains no names, original IDs, birth dates, birth spacing, calendar dates or times of day.
+This folder regenerates every result, table and figure of the revised manuscript from the files in this folder alone: Figures 1–3, Tables 2–4 and S3–S8, Sections 2.7 and 3.1, the Bayes factors and the sensitivity analyses. The one exception is the Table S5 sensitivity row that matches on birth-date distance: it needs birth-date information that is not released, and it is available from the authors on request. Participants are identified by pseudonymous P-codes (P001–P149). 
 
 ## How to run
 1. Install Python 3.12 (tested with 3.12.13, 64-bit, Windows 11).
@@ -19,16 +19,6 @@ This folder regenerates every result, table and figure of the revised manuscript
 4. Check the result: `sha256sum -c SHA256SUMS.txt` (or any SHA-256 tool). All text files are written with LF line endings on every platform.
 
 **Pinned environment** (`requirements.txt`): numpy 2.3.5, pandas 2.3.3, scipy 1.16.2, statsmodels 0.14.5, matplotlib 3.11.1, tabulate 0.10.0, and their dependencies.
-
-**Fonts:** Figure 2 uses Times New Roman and Figure 3 uses Arial, as in the manuscript; Figure 1 uses matplotlib's bundled DejaVu Sans.
-
-**What depends on the environment**
-- **CSV values:** independent of the environment up to the last digits (≤ 1e-8 with other numpy/statsmodels versions).
-- **PNG figures:** a rendering of the source CSVs.
-  - With the pinned environment, Figure 2 and Figure 3 are byte-identical to the manuscript figures.
-  - Figure 1 was rendered for the manuscript in an earlier environment. No tested matplotlib version reproduces those bytes, and about 1% of pixels differ. The plotted counts (`source_data.csv`) are identical.
-  - Other matplotlib versions or missing fonts change the rendering only.
-- **PDFs:** each PDF embeds its matplotlib version, and `Figure_1.pdf` has a fixed creation date written with the local time-zone offset. A PDF's hash can therefore differ between machines or versions; compare figures by their PNG and source CSV. On the same machine and version, repeated runs give identical PDFs. The PDFs are listed in `SHA256SUMS.txt` with this caveat.
 
 ## Folder map
 | Folder | Content |
